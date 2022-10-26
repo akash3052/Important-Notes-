@@ -1,0 +1,9 @@
+string find in C++
+--------------------
+
+String find is used to find the first occurrence of sub-string in the specified string being called upon.
+
+Function Return:
+------------------
+The function returns the index of the first occurrence of sub-string, 
+if the sub-string is not found it returns string::npos(string::pos is static member with value as the highest possible for the size_t data structure).
